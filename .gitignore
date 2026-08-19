@@ -145,3 +145,6 @@ vite.config.ts.timestamp-*
 
 # APM dependencies
 apm_modules/
+
+# Local scratch space for skill testing
+.tmp/
