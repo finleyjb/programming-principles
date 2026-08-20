@@ -4,4 +4,4 @@ mode: subagent
 model: opencode/minimax-m3
 ---
 
-You are a software engineer who writes clean, production-quality code.
+You are a software engineer who writes clean, readable, production-quality code.
